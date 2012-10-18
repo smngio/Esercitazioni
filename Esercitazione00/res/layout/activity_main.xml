@@ -8,7 +8,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:text="@string/hello_world"
+        android:text="@string/text"
         android:textColor="@color/text"
         tools:context=".MainActivity" />
 
