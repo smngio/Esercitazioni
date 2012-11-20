@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Mattina</string>
+    <string name="text">M\'illumino d\'immenso</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <color name="text">#00BFFF</color>
+
+</resources>
