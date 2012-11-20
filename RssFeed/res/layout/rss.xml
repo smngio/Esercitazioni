@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<RelativeLayout 
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+     >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:context=".rss" 
+        android:id="@+id/titolo"
+        android:textColor="@color/Blue"
+        android:textSize="@dimen/Normal"
+        android:textStyle="bold"
+        android:shadowColor="@color/Grey"
+        />
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/Grey"
+        android:textSize="@dimen/Small"
+        android:layout_below="@id/titolo"
+         />
+    
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:paddingTop="3dp"
+        android:layout_below="@id/textView1"
+        android:contentDescription="@string/des"
+         />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/Small"
+        android:layout_below="@id/imageView1" />
+
+</RelativeLayout>
+</ScrollView>

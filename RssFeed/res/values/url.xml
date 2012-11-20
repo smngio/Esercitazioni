@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+	<string-array name="array_url">
+		<item>http://www.nasa.gov/rss/image_of_the_day.rss</item>
+		<item>http://www.nasa.gov/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss</item>
+		<item>http://www.tutticuochi.com/index.php/feed/</item>
+		<item>http://xml.corriereobjects.it/rss/animali.xml</item>
+		<item>http://xml.corriereobjects.it/rss/cultura.xml</item>
+		<item>http://www.gazzetta.it/rss/Calcio.xml</item>
+		<item>http://www.gazzetta.it/rss/Formula1.xml</item>
+		<item>http://local.virgilio.it/058/091/news.xml</item>
+		<item>http://xml.corriereobjects.it/rss/homepage_roma.xml</item>
+		<item>http://xml.corriereobjects.it/rss/scienze.xml</item>
+	</string-array>
+</resources>

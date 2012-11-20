@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">RssFeed</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_rsslist">RSSlist</string>
+    <string name="title_activity_rss">Focus on RSS</string>
+    <string name="des">ciao</string>
+
+</resources>
